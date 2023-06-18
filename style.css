@@ -1,0 +1,47 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.cabeça{
+    background-color: black;
+
+}
+.sinet{
+    color: white;
+    font-size: 50px;
+    padding-left: 40px;
+}
+.loja{
+    background-color: #807457;
+}
+.todos-tenis{
+    display: grid;
+    grid-template-columns: 30% 30% 30%  ;
+}
+.div-texto-um{
+    padding-left: 3px;
+    padding-top: 500px;
+}
+.mike{
+    padding-left: 80px;
+}
+.tenis{
+    padding-left: 3px;
+    padding-top: 3px;
+    width: 300px;
+    height: 200px;
+}
+.rel1{
+    padding-left: 80px;
+}
+.mik{
+    padding-left: 40px;
+}
+.mike1{
+    padding-top: 70px;
+    padding-left: 80px;
+}
+.pumba{
+    padding-left: 0px;
+}
